@@ -1,5 +1,5 @@
 {
-  "aggiornata_il": "2026-08-08 12:50",
+  "aggiornata_il": "2026-08-23 12:38",
   "contenuti": [
     {
       "id": "ferie-agosto-2026",
@@ -11,6 +11,80 @@
       "caption_li": "PROFIM resta chiusa per ferie dal 12 al 23 agosto. L'ultimo giorno in ufficio è martedì 11, si riparte lunedì 24.\n\nLe richieste che arrivano durante la chiusura le leggiamo al rientro e rispondiamo appena riapriamo.\n\nBuone ferie a tutti.\n\n#ferieagosto #SOA #ISO9001 #costruzioni",
       "immagine_url": "https://salvatoretorre.github.io/social-profim-assets/contenuti/ferie-agosto-2026/locandina.png",
       "video_url": ""
+    },
+    {
+      "id": "collaudo-testo",
+      "quando": "2026-08-23 23:00",
+      "data": "2026-08-23",
+      "ora": "23",
+      "tipo": "testo",
+      "caption": "PROVA TECNICA — verifica del sistema di pubblicazione automatica.\n\nQuesto post viene cancellato entro pochi minuti. Ci scusiamo per il disturbo.",
+      "caption_li": "PROVA TECNICA — verifica del sistema di pubblicazione automatica.\n\nQuesto post viene cancellato entro pochi minuti. Ci scusiamo per il disturbo.",
+      "immagine_url": "",
+      "video_url": "",
+      "slide_urls": [],
+      "cover_li_url": ""
+    },
+    {
+      "id": "collaudo-immagine",
+      "quando": "2026-08-23 23:00",
+      "data": "2026-08-23",
+      "ora": "23",
+      "tipo": "immagine",
+      "caption": "PROVA TECNICA — verifica del sistema di pubblicazione automatica.\n\nQuesto post viene cancellato entro pochi minuti. Ci scusiamo per il disturbo.",
+      "caption_li": "PROVA TECNICA — verifica del sistema di pubblicazione automatica.\n\nQuesto post viene cancellato entro pochi minuti. Ci scusiamo per il disturbo.",
+      "immagine_url": "https://salvatoretorre.github.io/social-profim-assets/contenuti/collaudo-immagine/prova.png",
+      "video_url": "",
+      "slide_urls": [],
+      "cover_li_url": ""
+    },
+    {
+      "id": "collaudo-carosello",
+      "quando": "2026-08-23 23:00",
+      "data": "2026-08-23",
+      "ora": "23",
+      "tipo": "carosello",
+      "caption": "PROVA TECNICA — verifica del sistema di pubblicazione automatica.\n\nQuesto post viene cancellato entro pochi minuti. Ci scusiamo per il disturbo.",
+      "caption_li": "PROVA TECNICA — verifica del sistema di pubblicazione automatica.\n\nQuesto post viene cancellato entro pochi minuti. Ci scusiamo per il disturbo.",
+      "immagine_url": "",
+      "video_url": "",
+      "slide_urls": [
+        "https://salvatoretorre.github.io/social-profim-assets/contenuti/collaudo-carosello/slide_01.png",
+        "https://salvatoretorre.github.io/social-profim-assets/contenuti/collaudo-carosello/slide_02.png",
+        "https://salvatoretorre.github.io/social-profim-assets/contenuti/collaudo-carosello/slide_03.png",
+        "https://salvatoretorre.github.io/social-profim-assets/contenuti/collaudo-carosello/slide_04.png",
+        "https://salvatoretorre.github.io/social-profim-assets/contenuti/collaudo-carosello/slide_05.png",
+        "https://salvatoretorre.github.io/social-profim-assets/contenuti/collaudo-carosello/slide_06.png",
+        "https://salvatoretorre.github.io/social-profim-assets/contenuti/collaudo-carosello/slide_07.png",
+        "https://salvatoretorre.github.io/social-profim-assets/contenuti/collaudo-carosello/slide_08.png"
+      ],
+      "cover_li_url": "https://salvatoretorre.github.io/social-profim-assets/contenuti/collaudo-carosello/cover_li.png"
+    },
+    {
+      "id": "collaudo-reel",
+      "quando": "2026-08-23 23:00",
+      "data": "2026-08-23",
+      "ora": "23",
+      "tipo": "reel",
+      "caption": "PROVA TECNICA — verifica del sistema di pubblicazione automatica.\n\nQuesto post viene cancellato entro pochi minuti. Ci scusiamo per il disturbo.",
+      "caption_li": "PROVA TECNICA — verifica del sistema di pubblicazione automatica.\n\nQuesto post viene cancellato entro pochi minuti. Ci scusiamo per il disturbo.",
+      "immagine_url": "",
+      "video_url": "https://salvatoretorre.github.io/social-profim-assets/contenuti/collaudo-reel/prova_reel.mp4",
+      "slide_urls": [],
+      "cover_li_url": ""
+    },
+    {
+      "id": "rientro-24-agosto",
+      "quando": "2026-08-24 08:00",
+      "data": "2026-08-24",
+      "ora": "08",
+      "tipo": "immagine",
+      "caption": "PROFIM ha riaperto.\n\nDa stamattina siamo di nuovo in ufficio. Stiamo leggendo le richieste arrivate durante la chiusura, rispondiamo a tutti in questi giorni.\n\nSe la tua SOA scade nei prossimi mesi, scrivici. Controlliamo la data e ti diciamo quando conviene iniziare il rinnovo.\n\nSe sei già nostro cliente non devi fare niente: le scadenze le controlliamo noi e ti avvisiamo quando è il momento.\n\nBuon rientro a tutti.\n\n📲 Scrivici su WhatsApp\n   https://wa.me/393479242840\n\n🌐 Visita il sito\n   https://www.profimsrl.it",
+      "caption_li": "PROFIM ha riaperto: da oggi siamo di nuovo operativi.\n\nStiamo leggendo le richieste arrivate durante la chiusura e rispondiamo a tutte in questi giorni.\n\nA settembre ripartono i cantieri e tornano a uscire le gare. Se l'attestazione SOA della tua impresa scade nei prossimi mesi, conviene muoversi adesso: il rinnovo richiede tempo, e chi parte tardi rischia di trovarsi senza attestazione proprio quando gli serve.\n\nLe imprese che seguiamo non devono pensarci: le scadenze le controlliamo noi e le avvisiamo in anticipo.\n\n#SOA #ISO9001 #costruzioni",
+      "immagine_url": "https://salvatoretorre.github.io/social-profim-assets/contenuti/rientro-24-agosto/locandina.png",
+      "video_url": "",
+      "slide_urls": [],
+      "cover_li_url": ""
     }
   ]
 }
