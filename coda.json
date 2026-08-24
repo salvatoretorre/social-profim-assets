@@ -1,5 +1,5 @@
 {
-  "aggiornata_il": "2026-08-23 22:34",
+  "aggiornata_il": "2026-08-24 12:44",
   "contenuti": [
     {
       "id": "ferie-agosto-2026",
@@ -21,6 +21,41 @@
       "caption": "PROFIM ha riaperto.\n\nDa stamattina siamo di nuovo in ufficio. Stiamo leggendo le richieste arrivate durante la chiusura, rispondiamo a tutti in questi giorni.\n\nSe la tua SOA scade nei prossimi mesi, scrivici. Controlliamo la data e ti diciamo quando conviene iniziare il rinnovo.\n\nSe sei già nostro cliente non devi fare niente: le scadenze le controlliamo noi e ti avvisiamo quando è il momento.\n\nBuon rientro a tutti.\n\n📲 Scrivici su WhatsApp\n   https://wa.me/393479242840\n\n🌐 Visita il sito\n   https://www.profimsrl.it",
       "caption_li": "PROFIM ha riaperto: da oggi siamo di nuovo operativi.\n\nStiamo leggendo le richieste arrivate durante la chiusura e rispondiamo a tutte in questi giorni.\n\nA settembre ripartono i cantieri e tornano a uscire le gare. Se l'attestazione SOA della tua impresa scade nei prossimi mesi, conviene muoversi adesso: il rinnovo richiede tempo, e chi parte tardi rischia di trovarsi senza attestazione proprio quando gli serve.\n\nLe imprese che seguiamo non devono pensarci: le scadenze le controlliamo noi e le avvisiamo in anticipo.\n\n#SOA #ISO9001 #costruzioni",
       "immagine_url": "https://salvatoretorre.github.io/social-profim-assets/contenuti/rientro-24-agosto/locandina.png",
+      "video_url": "",
+      "slide_urls": [],
+      "cover_li_url": ""
+    },
+    {
+      "id": "manuale-fermo-25ago",
+      "quando": "2026-08-25 08:00",
+      "data": "2026-08-25",
+      "ora": "08",
+      "tipo": "carosello",
+      "caption": "Apri il manuale della tua azienda e guarda la data dell'ultima revisione.\n\nIn audit capita spesso di trovare procedure ferme a più di dieci anni fa. Descrivono attività che nessuno svolge più e citano ruoli non presenti in azienda. Chi ci lavora lo sa e va avanti senza aprirle.\n\nLa politica è il documento meno aggiornato di tutti. A volte cita ancora la vecchia ragione sociale, o obiettivi raggiunti da anni.\n\nQuasi sempre il motivo è lo stesso: il sistema è nato per ottenere il certificato, non per essere usato ogni giorno. Un documento che non serve a chi lavora non lo aggiorna nessuno.\n\nBastano cinque minuti per capire come sei messo. Guarda la data del manuale. Rileggi la politica e verifica se descrive l'azienda di oggi. Poi prendi la procedura che usi di più e confrontala con come si lavora davvero.\n\nSe non coincidono, sai da dove cominciare.\n\n📲 Scrivici su WhatsApp\n   https://wa.me/393479242840\n\n🌐 Visita il sito\n   https://www.profimsrl.it\n\n#PROFIM #ISO9001 #ISO14001 #ISO45001 #sistemidigestione #audit #certificazioni #imprese",
+      "caption_li": "Apra il manuale della sua azienda e guardi la data dell'ultima revisione.\n\nIn audit capita spesso di trovare procedure operative ferme a più di dieci anni fa. Descrivono attività che nessuno svolge più e citano ruoli non presenti in azienda. Chi ci lavora lo sa e continua a lavorare senza aprirle.\n\nLa politica è il documento meno aggiornato di tutti. A volte cita ancora la vecchia ragione sociale, oppure obiettivi raggiunti da anni.\n\nNei sistemi ambientali il documento più esposto è l'analisi degli aspetti. In cinque anni possono cambiare attività, rifiuti, impatti e modalità operative. Se la revisione è ferma, l'elenco dei rifiuti non corrisponde più a quello che esce dai cantieri.\n\nQuasi sempre il motivo è lo stesso: il sistema è nato per ottenere il certificato, non per essere usato ogni giorno. Un documento che non serve a chi lavora non lo aggiorna nessuno.\n\nTre controlli da cinque minuti. La data dell'ultima revisione del manuale. La politica, per verificare se descrive l'azienda di oggi. Una sola procedura, confrontata con il modo reale in cui si lavora.\n\nQuando è stata l'ultima volta che qualcuno ha letto quei documenti per usarli, e non per un audit?\n\n#ISO9001 #ISO14001 #sistemidigestione #costruzioni #audit",
+      "immagine_url": "",
+      "video_url": "",
+      "slide_urls": [
+        "https://salvatoretorre.github.io/social-profim-assets/contenuti/manuale-fermo-25ago/slide_01_cover.png",
+        "https://salvatoretorre.github.io/social-profim-assets/contenuti/manuale-fermo-25ago/slide_02.png",
+        "https://salvatoretorre.github.io/social-profim-assets/contenuti/manuale-fermo-25ago/slide_03.png",
+        "https://salvatoretorre.github.io/social-profim-assets/contenuti/manuale-fermo-25ago/slide_04.png",
+        "https://salvatoretorre.github.io/social-profim-assets/contenuti/manuale-fermo-25ago/slide_05.png",
+        "https://salvatoretorre.github.io/social-profim-assets/contenuti/manuale-fermo-25ago/slide_06.png",
+        "https://salvatoretorre.github.io/social-profim-assets/contenuti/manuale-fermo-25ago/slide_07.png",
+        "https://salvatoretorre.github.io/social-profim-assets/contenuti/manuale-fermo-25ago/slide_08_chiusura.png"
+      ],
+      "cover_li_url": "https://salvatoretorre.github.io/social-profim-assets/contenuti/manuale-fermo-25ago/cover_2026-08-25_manuale-fermo.png"
+    },
+    {
+      "id": "clima-contesto-27ago",
+      "quando": "2026-08-27 16:00",
+      "data": "2026-08-27",
+      "ora": "16",
+      "tipo": "testo",
+      "caption": "Da febbraio 2024 ISO 9001, 14001 e 45001 chiedono di valutare se il cambiamento climatico è una questione rilevante per l'azienda. Sono passati due anni e mezzo. In audit ormai quella valutazione la troviamo quasi sempre.\n\nQuello che cambia è il contenuto. Una riga come \"si tiene conto dei cambiamenti climatici\" descrive un'azienda qualsiasi. Una valutazione fatta davvero elenca fatti che riguardano quell'impresa e quei cantieri.\n\nLe imprese edili che ci hanno ragionato scrivono cose di questo tipo. Giornate di cantiere perse per il caldo. Danni alle opere in corso per piogge intense. Fermi per meteo avverso. Aumento dei costi dell'energia. Committenti che chiedono materiali a basso impatto. Fra le opportunità ci sono i finanziamenti per l'efficientamento e il fotovoltaico sui propri capannoni.\n\nUna cosa che in pochi sanno. Puoi anche concludere che per la tua attività il clima non è rilevante. È una risposta corretta, purché sia motivata e messa per iscritto. Il problema nasce quando quella valutazione manca.\n\nApri l'analisi del contesto e leggi la voce clima. Se sono due righe copiate da un modello, sai già cosa sistemare prima del prossimo audit.\n\n📲 Scrivici su WhatsApp\n   https://wa.me/393479242840\n\n🌐 Visita il sito\n   https://www.profimsrl.it\n\n#PROFIM #ISO9001 #ISO14001 #ISO45001 #cantieri #costruzioni #certificazioni #audit",
+      "caption_li": "Da febbraio 2024 gli emendamenti *Climate action changes* hanno inserito in ISO 9001, ISO 14001 e ISO 45001 una richiesta precisa. L'organizzazione deve determinare se il cambiamento climatico è una questione rilevante per il proprio contesto. Sono passati due anni e mezzo, e nella documentazione quella valutazione ormai c'è quasi sempre.\n\nQuello che cambia è il contenuto. Una riga generica descrive un'azienda qualsiasi. Una valutazione fatta davvero elenca fatti che riguardano quell'impresa e quei cantieri.\n\nLe imprese di costruzioni che ci hanno ragionato individuano fattori concreti. Giornate di cantiere perse per il caldo, che con le ordinanze estive sono ormai un dato di calendario. Danni alle opere in corso per precipitazioni intense. Fermi per condizioni avverse. Aumento dei costi dell'energia. Committenti che chiedono materiali e tecnologie a basso impatto. Sul lato delle opportunità: l'accesso ai finanziamenti per l'efficientamento e il fotovoltaico sui siti aziendali.\n\nLe valutazioni migliori hanno una cosa in comune. Il rischio è declinato per progetto e per area geografica. Non basta scrivere che il clima influisce sui cantieri: serve dire quali cantieri, in quale stagione e con quali conseguenze sui tempi.\n\nVa ricordato anche il caso opposto. La norma chiede di determinare se il cambiamento climatico è rilevante, non di dichiararlo rilevante per forza. Si può concludere in modo motivato che per una certa attività non lo sia. È una risposta corretta, purché sia messa per iscritto. Il problema nasce quando quella valutazione manca.\n\nSe ha la certificazione, apra l'analisi del contesto della sua impresa e legga la voce clima. Se descrive un'azienda qualsiasi, c'è del lavoro da fare prima del prossimo audit.\n\n#ISO9001 #ISO14001 #ISO45001 #costruzioni #sistemidigestione",
+      "immagine_url": "",
       "video_url": "",
       "slide_urls": [],
       "cover_li_url": ""
